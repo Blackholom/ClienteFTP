@@ -1,0 +1,66 @@
+type=file;modify=20130130192857;size=61440; 122 - I Miniproyecto Entrega I (1).xls
+type=dir;modify=20150312222612; 2015-02-16-raspbian-wheezy
+type=file;modify=20150310220354;size=1021592274; 2015-02-16-raspbian-wheezy.zip
+type=file;modify=20150227205004;size=336749; Acta PDG Febrero 27 Prototipo de una Herramienta de TI para Captura de Datos y C??lculo de Costos Aplicable para el Laboratorio de Ingenier??a Industrial.pdf
+type=dir;modify=20100829230409; activate office
+type=dir;modify=20150327220949; Adobe
+type=file;modify=20120927210325;size=66917; ArbolBeta.zip
+type=file;modify=20150326151511;size=10494; Base de datos-sala computo.xlsx
+type=file;modify=20101222044256;size=83855512; burningromsuite-ESD.exe
+type=file;modify=20150325025522;size=2546; Camilo - Chrome.lnk
+type=file;modify=20140813032009;size=1239; Cisco Packet Tracer.lnk
+type=file;modify=20130203163030;size=2537; Codigo.txt
+type=file;modify=20150311122234;size=282; desktop.ini
+type=file;modify=20150313224101;size=1037; Dropbox.lnk
+type=dir;modify=20130130175641; dvdSolid64
+type=dir;modify=20130204192455; dvdSolidx32
+type=file;modify=20121105144419;size=1235; DVDVideoSoft Free Studio.lnk
+type=dir;modify=20150327162222; eclipse
+type=file;modify=20150326151358;size=20822; Ejercicios pruebas de hip??tesi.docx
+type=file;modify=20131107113929;size=1454; emu8086.lnk
+type=file;modify=20150103161932;size=8144; EPs 2014 - ??ltima vista usada.xlsx
+type=file;modify=20150322232252;size=514; estudiante1.py
+type=dir;modify=20141111063918; fotos
+type=file;modify=20121105143242;size=1298; Free YouTube Download.lnk
+type=file;modify=20121105144416;size=1406; Free YouTube to iPod Converter.lnk
+type=file;modify=20150323195426;size=2928739; Get_to_Know_AIESEC.zip
+type=file;modify=20140923222122;size=31599215; GNS3-0.8.7-Standalone-64-bit.zip
+type=file;modify=20141007091501;size=1616; GNS3.lnk
+type=file;modify=20130130193746;size=1719; Google Drive.lnk
+type=file;modify=20140519170841;size=94779; haloooooooooooooo.wma
+type=file;modify=20130204122719;size=0; Herencia y etc.txt
+type=file;modify=20150327171052;size=65000000; hola.py
+type=file;modify=20140406023752;size=2213; HP Support Assistant.lnk
+type=dir;modify=20121017014620; JDK
+type=file;modify=20121027045828;size=83630; JSP.zip
+type=dir;modify=20140411041422; Matlab
+type=file;modify=20140413124704;size=1343; matlab - Shortcut.lnk
+type=file;modify=20150322232452;size=0; mejorandola.py
+type=file;modify=20100829201635;size=91287; Microsoft_Office_Home_and_crack.zip
+type=dir;modify=20121112181135; My Shared Folder
+type=dir;modify=20120215230337; N2-Diego-Cuevas
+type=dir;modify=20141208174429; New folder
+type=file;modify=20130508173629;size=60; New Text Document (2).txt
+type=file;modify=20130203162939;size=2558; New Text Document.txt
+type=dir;modify=20120926143706; ocio
+type=dir;modify=20130506145030; Office 2007
+type=file;modify=20130128210820;size=596261656; Office2010Hogar.exe
+type=file;modify=20150103183407;size=33096; oGIP Master Plan.xlsx
+type=file;modify=20150325050734;size=2518; Person 1 - Chrome.lnk
+type=file;modify=20150326151539;size=29582; Prueba de hipotesis de dos muestras(1).docx
+type=file;modify=20150327162807;size=65000000; prueba.py
+type=file;modify=20150326151546;size=43077; PRUEBAS DE HIPOTESIS DE UNA MUESTRA.docx
+type=file;modify=20141014043252;size=49173189; RDC Application AIESEC in Cali.pdf
+type=file;modify=20121027045607;size=1660022; RuletaTerminado
+type=file;modify=20130127155234;size=1511; SoftonicDownloader_para_microsoft-office-2010 - Shortcut.lnk
+type=dir;modify=20130203221345; tools
+type=dir;modify=20130224175922; Trabajos viejos
+type=file;modify=20130525143923;size=10125547; vba-m1025.7z
+type=file;modify=20140726195451;size=24677393; vlc-2-1-3-win32.exe
+type=file;modify=20130222232708;size=2108; Windows Live Messenger .lnk
+type=file;modify=20150107152428;size=360; wishlist.txt
+type=dir;modify=20121001145457; Workspace2
+type=file;modify=20120619063720;size=1579755; wrar411es.exe
+type=dir;modify=20130523005906; Xilinx Installer
+type=file;modify=20100816201807;size=162; ~$ EDUCACION.doc
+type=file;modify=20100817055044;size=31744; ~WRL3054.tmp
